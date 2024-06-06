@@ -5,3 +5,5 @@ s tree has some mangoes on it.vbsdfgnsfdbg/ksndg
 This is a new line added to file2
 Some more lines added
 Test line
+
+This one I am editing in GitHub directly
