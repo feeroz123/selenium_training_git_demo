@@ -4,3 +4,5 @@ This is the second line in my file
 adding a new line
 Now I am checking the changes using Git GUI
 Another line added
+
+this is 5th line
