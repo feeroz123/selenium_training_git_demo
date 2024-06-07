@@ -8,4 +8,3 @@ Another line added
 this is 5th line
 this is 6th line
 Dummy line to create conflict
-
