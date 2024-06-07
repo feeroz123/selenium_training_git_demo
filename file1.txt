@@ -6,3 +6,4 @@ Now I am checking the changes using Git GUI
 Another line added
 
 this is 5th line
+this is 6th line
