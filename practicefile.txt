@@ -1,0 +1,5 @@
+ls
+this is practice file
+this is apple
+this is orange
+this is kiwi
